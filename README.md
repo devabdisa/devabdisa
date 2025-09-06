@@ -1,10 +1,10 @@
-# 👋 Hi, I’m Abdisa Ketema
+# 👋 Hi, I’m Abdisa Ketema 
 
 🌱 **Currently:**  
 - 🎓 3rd-year Software Engineering student at university  
 - 💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote)  
-- 🧑‍💻 Founder & Entrepreneur, building amazing things with [TNT Ethiopia](#)  
-- 🏗️ Building my portfolio: [abdisaketema.com](https://abdisaketema.com)
+- 🧑‍💻 Entrepreneur, building amazing things with [TNT Ethiopia](#)  
+- 🏗️ My portfolio: [abdisaketema.com](https://abdisaketema.com)
 
 ---
 
@@ -31,7 +31,9 @@
 ## 📫 Let’s Connect!
 
 - **Portfolio:** [abdisaketema.com](https://abdisaketema.com)
-- <!-- Add your LinkedIn, Twitter, or other links here if you want! -->
+- **Email:** [meetabdisa@gmail.com](mailto:meetabdisa@gmail.com)
+- **Telegram:** [@abdisa_ke](https://t.me/abdisa_ke)
+  <!-- Add your LinkedIn, Twitter, or other links here if you want! -->
 
 ---
 
