@@ -1,4 +1,4 @@
-<h2 align="start">Hey 👋, I'm Abdisa Welcome to My Github Zone!</h2>
+<h2 align="start">Hey 👋, Welcome to My Github Zone!</h2>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devabdisa&label=Profile%20views&color=0e75b6&style=flat" alt="Abdisa Ketema" />
