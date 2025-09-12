@@ -39,7 +39,7 @@
 Based on my GitHub repositories, these are the languages I use the most:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisa-ketema&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabdisa&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
