@@ -15,21 +15,31 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-     width="38" height="38" alt="Express"
-     style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+       width="38" height="38" alt="Express"
+       style="filter: brightness(0) invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-     width="38" height="38" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+       width="38" height="38" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="38" height="38" alt="jQuery"/>
   <img src="https://cdn.simpleicons.org/squarespace/222222" width="38" height="38" alt="Squarespace"/>
   <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="38" height="38" alt="Shopify"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
+</p>
+
+---
+
+## 📝 Most Used Languages
+
+Based on my GitHub repositories, these are the languages I use the most:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisa-ketema&layout=compact&theme=dark" alt="Most Used Languages" />
 </p>
 
 ---
@@ -44,17 +54,3 @@
 ---
 
 > “The best way to predict the future is to invent it.” – Alan Kay
-
----
-
-## 📝 Most Used Languages
-
-Based on my GitHub repositories, here are my most used programming languages:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisa-ketema&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
-
-
-
-
