@@ -45,18 +45,14 @@
 
 > “The best way to predict the future is to invent it.” – Alan Kay
 
+---
 
-<!--
-**devabdisa/devabdisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📝 Most Used Languages
 
-Here are some ideas to get you started:
+Based on my GitHub repositories, here are my most used programming languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdisa-ketema&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
+
+
