@@ -17,18 +17,16 @@
 </p>
 
 <p align="start">
-  <a href="">
-    <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="40" height="40" alt="React.js"/>
-    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="40" height="40" alt="Node.js"/>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="40" height="40" alt="Express"/>
-    <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="40" height="40" alt="MongoDB"/>
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="40" height="40" alt="Next.js"/>
-    <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="40" height="40" alt="TypeScript"/>
-    <img src="https://media.giphy.com/media/3o7aCVjwj3n2Rx0H4w/giphy.gif" width="40" height="40" alt="Tailwind CSS"/>
-    <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="40" height="40" alt="Bootstrap"/>
-    <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="40" height="40" alt="Java"/>
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="40" height="40" alt="C++"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
 </p>
 
 <br>
