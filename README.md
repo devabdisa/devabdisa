@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Abdisa Ketema 
+# 👋 Hey, I’m Abdisa Welcome to My Github Zone!
 
 🌱 **Currently:**  
+- 👨‍💻 I'm available for full-stack development projects. 
+- 👯 I’m always open to collaborating on creative and innovative projects.
 - 🎓 3rd-year Software Engineering student at university  
 - 💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote)  
 - 🧑‍💻 Entrepreneur, building amazing things with [TNT Ethiopia](#)  
@@ -29,14 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" height="38" alt="Java"/>
 </p>
-
----
-
-## 🧠 About Me
-
-- I have an **entrepreneurial mindset** and love building both products and teams.
-- I’m passionate about modern JavaScript frameworks and always learning new technologies.
-- I believe in teamwork, innovation, and giving back to the tech community.
 
 ---
 
