@@ -13,7 +13,7 @@
 
 <br>
 <p>
-<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With
+<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With.
 </p>
 
 <p align="start">
