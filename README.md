@@ -38,13 +38,22 @@
 <p align="start">💻 Find Me On</p>
 
 <p align="start">
+  <!--
   <a href="https://www.upwork.com/freelancers/~0133a12a80d69038f8">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+  </a>
+  -->
+  <a href="mailto:meetabdisa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://t.me/abdisa_ke">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/devabdisa">
     <img src="https://img.shields.io/github/followers/devabdisa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" alt="Follow me on GitHub"/>
   </a>
 </p>
+
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Statistics
 
