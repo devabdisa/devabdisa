@@ -59,7 +59,8 @@
 
 | Most used languages                                                                                                                     | Streaks                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devabdisa&border=true&layout=compact&theme=transparent&langs_count=8) | ![devabdisa](https://github-readme-streak-stats.herokuapp.com/?user=devabdisa&theme=tokyonight&hide_border=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=devabdisa&layout=compact&theme=transparent&langs_count=12&cache_seconds=1800)
+ | ![devabdisa](https://github-readme-streak-stats.herokuapp.com/?user=devabdisa&theme=tokyonight&hide_border=true) |
 
 ---
 
