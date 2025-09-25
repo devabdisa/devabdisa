@@ -4,9 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=devabdisa&label=Profile%20views&color=0e75b6&style=flat" alt="Abdisa Ketema" />
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C661%20hrs%2046%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
-
 👨‍💻 I'm available for full-stack development projects. <br>
 👯 I’m always open to collaborating on creative and innovative projects. <br>
 🎓 3rd-year Software Engineering student at university <br>
