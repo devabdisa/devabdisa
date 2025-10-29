@@ -9,7 +9,7 @@
 🎓 3rd-year Software Engineering student at university <br>
 💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote) <br>
 🧑‍💻 Entrepreneur, building amazing things with [TNT Ethiopia](#) <br>
-🏗️ My portfolio: [abdisaketema.com](https://abdisaketema.netlify.app/)
+🏗️ My portfolio: [abdisaketema.com](https://abdisaketema.com)
 
 
 
