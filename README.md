@@ -9,7 +9,7 @@
 🎓 3rd-year Software Engineering student at university <br>
 💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote) <br>
 🧑‍💻 Entrepreneur, building amazing things with [TNT Ethiopia](#) <br>
-🏗️ My portfolio: [abdisaketema.com](https://abdisaketema.com)
+🏗️ My portfolio: <a href="https://abdisaketema.com" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>
 
 
 
@@ -39,23 +39,24 @@
 
 <p align="start">
   <!--
-  <a href="https://www.upwork.com/freelancers/~0133a12a80d69038f8">
+  <a href="https://www.upwork.com/freelancers/~0133a12a80d69038f8" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
   </a>
   -->
-  <a href="https://www.linkedin.com/in/abdisa-ketema/">
+  <a href="https://www.linkedin.com/in/abdisa-ketema/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/devabdisa">
+  <a href="https://github.com/devabdisa" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/devabdisa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" alt="Follow me on GitHub"/>
   </a>
-  <a href="mailto:meetabdisa@gmail.com">
+  <a href="mailto:meetabdisa@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/abdisa_ke">
+  <a href="https://t.me/abdisa_ke" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
+
 
 
 
@@ -68,10 +69,10 @@
 
 ## 📫 Let’s Connect!
 
-- **Portfolio:** [abdisaketema.com](https://abdisaketema.com)  
-- **Email:** [meetabdisa@gmail.com](mailto:meetabdisa@gmail.com)  
-- **Telegram:** [@abdisa_ke](https://t.me/abdisa_ke)  
-- **Upwork:** [Hire Me](https://www.upwork.com/freelancers/~0133a12a80d69038f8)  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/abdisa-ketema/" target="_blank" rel="noopener noreferrer">abdisa-ketema</a>  
+- **Portfolio:** <a href="https://abdisaketema.com" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>  
+- **Email:** <a href="mailto:meetabdisa@gmail.com" target="_blank" rel="noopener noreferrer">meetabdisa@gmail.com</a>  
+- **Telegram:** <a href="https://t.me/abdisa_ke" target="_blank" rel="noopener noreferrer">@abdisa_ke</a>  
 
 ---
 
