@@ -14,7 +14,7 @@
 
 
 <br>
-<p>
+<p align="center">
 <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Tech Stack & Frameworks I've Worked With.
 </p>
 
@@ -35,7 +35,7 @@
 </p>
 
 <br>
-<p align="start">💻 Find Me On</p>
+<p align="center">💻 Find Me On</p>
 
 <p align="start">
   <!--
