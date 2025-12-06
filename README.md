@@ -5,8 +5,7 @@
 </p>
 
 👨‍💻 I'm available for full-stack development projects. <br>
-👯 I’m always open to collaborating on creative and innovative projects. <br> <br>
-
+👯 I’m always open to collaborating on creative and innovative projects. <br>
 💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote) <br>
 🧑‍💻 Entrepreneur, building amazing things with [TNT Ethiopia](#) <br>
 🏗️ My portfolio: <a href="https://abdisaketema.com" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>
