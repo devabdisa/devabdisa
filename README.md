@@ -4,10 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=devabdisa&label=Profile%20views&color=0e75b6&style=flat" alt="Abdisa Ketema" />
 </p>
 
-👨‍💻 I'm available for full-stack development projects. <br>
-👯 I’m always open to collaborating on creative and innovative projects. <br>
+👨‍💻 I'm available for full-stack development projects. <br><br>
+👯 I’m always open to collaborating on creative and innovative projects. <br><br>
 💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote) <br>
-🧑‍💻 Entrepreneur, building amazing things with [TNT Ethiopia](#) <br>
+ <br>
 🏗️ My portfolio: <a href="https://abdisaketema.com" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>
 
 
