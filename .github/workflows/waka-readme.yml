@@ -20,7 +20,7 @@ jobs:
           # ✅ Show only total coding time
           SHOW_TOTAL: true
           SHOW_TIME: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
 
           # ❌ Disable all breakdowns
           SHOW_LANGUAGES: false
