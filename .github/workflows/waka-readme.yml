@@ -17,3 +17,14 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
+          # ✅ Show only total coding time
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          TIME_RANGE: last_7_days
+
+          # ❌ Disable all breakdowns
+          SHOW_LANGUAGES: false
+          SHOW_PROJECTS: false
+          SHOW_OS: false
+          SHOW_EDITORS: false
+          SHOW_DAYS_OF_WEEK: false
