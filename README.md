@@ -78,7 +78,7 @@
 
 
 
-## ⏱️ Total Coding Activity (WakaTime)
+## ⏱️ Weekly Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
 
