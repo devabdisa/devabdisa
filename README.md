@@ -72,22 +72,6 @@
 
 
 
-## ⏱️ Weekly Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 26 hrs 42 mins
-
-TypeScript   11 hrs 8 mins   ██████████▒░░░░░░░░░░░░░░   41.37 %
-HTML         8 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-JavaScript   3 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-CSS          1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-PHP          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 📫 Let’s Connect!
 
 - **LinkedIn:** <a href="https://www.linkedin.com/in/abdisa-ketema/" target="_blank" rel="noopener noreferrer">abdisa-ketema</a>  
