@@ -4,10 +4,18 @@
   <img src="https://komarev.com/ghpvc/?username=devabdisa&label=Profile%20views&color=0e75b6&style=flat" alt="Abdisa Ketema" />
 </p>
 
-👨‍💻 I'm available for full-stack development projects. <br><br>
-👯 I’m always open to collaborating on creative and innovative projects. <br><br>
-💻 Graduate of Evangadi Tech Full Stack Bootcamp (remote) <br>
+👨‍💻 AI-Powered Full-Stack Developer
+
+🚀 Building intelligent web applications with Next.js, TypeScript, and the MERN stack. <br>
+🧠 Currently developing my own SaaS product.
+
+🎥 Teaching programming on YouTube @ethiopandatech.
+
+🤝 Open to full-stack roles, AI-powered applications, and innovative tech startups.
+
+🎓 3rd Year Software Engineering Student – Jimma University.
  <br>
+  <br>
 🏗️ My portfolio: <a href="https://abdisaketema.com" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>
 
 
@@ -24,7 +32,9 @@
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NEST.JS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/EXPRESS.JS-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
   <!-- Additional Technologies -->
@@ -32,7 +42,8 @@
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-   <!-- Tools -->
+
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
