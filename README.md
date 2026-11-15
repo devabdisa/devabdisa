@@ -14,7 +14,7 @@
 🤝 Open to full-stack roles, AI-powered applications, and innovative tech startups.
  <br>
   <br>
-🏗️ My portfolio: <a href="https://abdisaketema.com" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>
+🏗️ My portfolio: <a href="https://abdisa.work" target="_blank" rel="noopener noreferrer">abdisaketema.com</a>
 
 
 
